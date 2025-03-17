@@ -3,7 +3,7 @@
 ## Problem Statement: 
 In our daily life, we often want to make use of the ingredients we have at hand or sometimes encounter dishes on social media or at restaurants we wish to replicate at home. Identifying corresponding recipes online based solely on brief descriptions can be difficult and time-consuming.
 ## Aim:
-We aim to develop a tool that uses a textual description to provide detailed recipes, including ingredients and cooking instructions. This tool will employ natural language processing to interactively refine recipe suggestions based on user-provided ingredients and preferences.
+We aim to develop a tool that uses a textual description to provide detailed recipes, including ingredients and cooking instructions. This tool will employ natural language processing to interactively refine recipe suggestions based on user-provided ingredients and preferences.🧑‍🍳
 ## Usage:
 ### Files: 
 flaskApp(1).ipynb, user_interface.css, user_intreface.html, user_interface.js
